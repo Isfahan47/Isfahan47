@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isfahan47
 - 👀 I’m interested in Evolution in Technology 
 - 🌱 I’m currently learning COMPUTER SCIENCE AND ENGINEERING 
-- 💞️ I’m looking to collaborate on DESIGN THINKING FOR INNOVATION IN TECHNOLOGY 
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 How to reach me - isfahanahmed47@gmail.com
 
 <!---
